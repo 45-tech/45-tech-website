@@ -8,6 +8,21 @@ h2 {
 	font-weight: 100;
 }
 
+a {
+	text-decoration: none !important;
+    color: #9C9C9C;
+
+	-webkit-transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	-ms-transition: all 0.2s ease;
+}
+
+a:hover {
+	text-decoration: none !important;
+    color: #78AB46;
+}
+
 .header-container {
 	margin-top: 10px;
 	margin-bottom: 30px;
@@ -35,6 +50,7 @@ h2 {
 
 .nav-links a {
 	margin: 0px 10px;
+	font-size: 22px;
 }
 
 .nav-links nav {
