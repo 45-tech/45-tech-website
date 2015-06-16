@@ -30,19 +30,21 @@ a:hover {
 }
 
 .header-container {
-	margin: 10px 50px 20px 50px;
+	margin: 10px 70px 20px 70px;
 }
 
 .header-container img {
 	display: inline-block;
 	vertical-align: top;
 	margin-top: 20px;
+	height: 60px;
+	width: 60px;
 }
 
 .header-container h1{
 	display: inline-block;
 	font-weight: 300;
-	margin: 22px 0px 0px 10px;
+	margin: 33px 0px 0px 10px;
 }
 
 .nav-links {
@@ -58,7 +60,7 @@ a:hover {
 }
 
 .nav-links nav {
-	margin-top: 30px;
+	margin-top: 40px;
 }
 
 .tagline-container {
@@ -108,7 +110,7 @@ a:hover {
 	border: 1px solid #DBDBDB;
 	max-width: 450px;
 	margin: 30px auto;
-	padding: 30px;
+	padding: 30px 30px 20px 30px;
 	background-color: #F2F2F2
 }
 
